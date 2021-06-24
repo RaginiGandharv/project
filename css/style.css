@@ -102,7 +102,7 @@
     color: #fff;
 }
 .owl-next:before{
-    content:"\f105";
+    content:"\f054";
 }
 @media only screen and (max-width:767px){
     .testimonial-bg{ padding: 50px 40px; }
